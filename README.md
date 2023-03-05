@@ -12,4 +12,5 @@ Adding your name to this list is equivalent to completing your first assignment.
 ## List of people who know git
 
 - [Farhad Uneci](https://farhaduneci.github.io/) :v:
+- [Yones Sohrabi](https://github.com/YonesSohrabi) 
 
