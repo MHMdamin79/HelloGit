@@ -16,3 +16,5 @@ Adding your name to this list is equivalent to completing your first assignment.
 - [Reza Mahmoudian](https://github.com/rezamahmoudian) :star:
 - [Sina Samavaty](https://github.com/Samavaty)
 - [Sude Zarei](https://github.com/SudeZarei) :sparkles:
+- [Alireza A.Mousavi](https://github.com/AlirezaAMousavi)
+- [mohamadreza shabro](https://github.com/sh0tAk0) :laughing:
