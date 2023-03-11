@@ -13,6 +13,7 @@ Adding your name to this list is equivalent to completing your first assignment.
 
 - [Farhad Uneci](https://farhaduneci.github.io/) :v:
 - [Yones Sohrabi](https://github.com/YonesSohrabi) 
+- [zana mobaraki](https://github.com/Zana-Mobaraki) :penguin:
 - [Reza Mahmoudian](https://github.com/rezamahmoudian) :star:
 - [Sina Samavaty](https://github.com/Samavaty)
 - [Sude Zarei](https://github.com/SudeZarei) :sparkles:
